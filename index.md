@@ -9,7 +9,7 @@
 <strong>Privacy Policy</strong> <p>
     Pomoynytskiy Vladyslav built the QAPP app as
     a Freemium app. This SERVICE is provided by
-    Pomoynytskiy Vadyslav at no cost and is intended for use as
+    Pomoynytskiy Vladyslav at no cost and is intended for use as
     is.
 </p> <p>
     This page is used to inform visitors regarding my

@@ -46,6 +46,10 @@
     configuration of the app when utilizing my Service,
     the time and date of your use of the Service, and other
     statistics.
+    We automatically collect certain information when you visit, use or navigate the App. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location , information about how and when you use our App and other technical information. 
+    Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our App, to provide certain location-based services.
+    Your location data is not stored or transmitted.
+    If you wish to change our access or permissions, you may do so in your device's settings.This is needed for the bluetooth protocol.
 </p> <p><strong>Cookies</strong></p> <p>
     Cookies are files with a small amount of data that are
     commonly used as anonymous unique identifiers. These are sent
